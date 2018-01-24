@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{6BE4D08D-B1D0-4DCD-BAD8-FA12B9849A38}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApiCodeTest/Steps/CommonSteps.cs">
+    <Files>
+      <File FileName="WebApiCodeTest/Steps/CommonSteps.cs" Line="32" Column="9" />
+      <File FileName="WebApiCodeTest/Steps/SearchApiSteps.cs" Line="72" Column="10" />
+      <File FileName="WebApiCodeTest/Features/SearchAPITest.feature" Line="21" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WebApiCodeTest" expanded="True">
+            <Node name="WebApiCodeTest" expanded="True">
+              <Node name="WebApiCodeTest" expanded="True">
+                <Node name="Features" expanded="True">
+                  <Node name="SearchAPIFeature" expanded="True" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Mathy/Downloads/WebApiCodeTest (1) 2/WebApiCodeTest/Steps/SearchApiSteps.cs" relfile="WebApiCodeTest/Steps/SearchApiSteps.cs" line="43" column="1" />
+      <Breakpoint file="/Users/Mathy/Downloads/WebApiCodeTest (1) 2/WebApiCodeTest/Steps/CommonSteps.cs" relfile="WebApiCodeTest/Steps/CommonSteps.cs" line="26" column="1" />
+      <Breakpoint file="/Users/Mathy/Downloads/WebApiCodeTest (1) 2/WebApiCodeTest/Steps/SearchApiSteps.cs" relfile="WebApiCodeTest/Steps/SearchApiSteps.cs" line="70" column="38" />
+      <Breakpoint file="/Users/Mathy/Downloads/WebApiCodeTest (1) 2/WebApiCodeTest/Steps/SearchApiSteps.cs" relfile="WebApiCodeTest/Steps/SearchApiSteps.cs" line="71" column="49" />
+      <Breakpoint file="/Users/Mathy/Downloads/WebApiCodeTest (1) 2/WebApiCodeTest/Steps/SearchApiSteps.cs" relfile="WebApiCodeTest/Steps/SearchApiSteps.cs" line="77" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../WebApiCodeTest (1)/WebApiCodeTest/Steps/SearchApiSteps.cs" line="33" offsetX="416" offsetY="480" expression="Request.Resource" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.WebApiCodeTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
